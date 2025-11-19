@@ -43,9 +43,9 @@ export const siteConfig = {
       bullets: [
         "Led a team of data scientists supporting India’s leading life insurer and a top-tier bank, both facing challenges in risk identification and loss ratios.",
         "Own end-to-end pipeline development and modelling for two high-stakes use cases—early death-claim detection and risk modelling for stressed portfolios—while also strengthening team capability.",
-        "• Built and deployed four ML models for PIRV (early death-claim prediction) across multiple distribution channels. Optimised features, thresholds, and validation processes to boost worst-decile capture while lowering false positives." 
-        "• Designed and developed a suite of ML models and collection strategies for the bank’s key portfolios, addressing deterioration in their existing Home Loan risk models and stabilising identification accuracy."
-        "• Trained and onboarded an intern in parallel, creating documentation, walkthroughs, and collaborative workflows to support skill development.",
+        "Built and deployed four ML models for PIRV (early death-claim prediction) across multiple distribution channels. Optimised features, thresholds, and validation processes to boost worst-decile capture while lowering false positives." 
+        "Designed and developed a suite of ML models and collection strategies for the bank’s key portfolios, addressing deterioration in their existing Home Loan risk models and stabilising identification accuracy."
+        "Trained and onboarded an intern in parallel, creating documentation, walkthroughs, and collaborative workflows to support skill development.",
         "Delivered ~100% lift across key decision metrics for PIRV models and improved loss-ratio outcomes for both organisations"
       ],
     },
@@ -59,9 +59,9 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
+      company: "JP MORGAN CHASE and Co.",
+      title: "Senior Analyst",
+      dateRange: "Jul 2019 - July 2022",
       bullets: [
         "• Led RCA for a critical issue by partnering with Implementation and Data teams, quantifying impact, resolving data gaps, and establishing monthly model reporting along with a Variables Quality Dashboard using CSI/PSI to flag anomalies.",
 
@@ -73,24 +73,15 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Indian Institute of Technology(BHU), Varanasi",
+      degree: "Integrated Dual Degree (BTech & MTech)",
+      dateRange: "2014 - 2019",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+        "Graduated with 8.4 GPA",
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
+      school: "Kendriya Vidyalaya Sangathan",
     },
   ],
 };
