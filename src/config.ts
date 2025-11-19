@@ -1,17 +1,17 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Aakash",
+  title: "Data Science and Analytics Professional",
+  description: "Portfolio website",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "aakash0614@gmail.com",
+    linkedin: "https://www.linkedin.com/in/aakashjitendra/",
+    twitter: "https://x.com/",
+    github: "https://github.com/Aether-ious",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    " Highly motivated Risk Professional with ~6 years in Data Science and Analytics, specializing in Predictive Modelling and Analytics. Experienced in Model development, and monitoring across Acquisition, Behaviour, Collection, and Recovery domains. Proficient in SAS, SQL, and Python, driving data-driven solutions with strong work ethics and continuous learning mindset.",
+  skills: ["Python", "SQL", "SAS"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
@@ -37,23 +37,25 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "iTuring.ai",
+      title: "Lead Data Science",
+      dateRange: "Oct 2024 - May 2025",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Led a team of data scientists supporting India’s leading life insurer and a top-tier bank, both facing challenges in risk identification and loss ratios.",
+        "Own end-to-end pipeline development and modelling for two high-stakes use cases—early death-claim detection and risk modelling for stressed portfolios—while also strengthening team capability.",
+        "• Built and deployed four ML models for PIRV (early death-claim prediction) across multiple distribution channels. Optimised features, thresholds, and validation processes to boost worst-decile capture while lowering false positives." 
+        "• Designed and developed a suite of ML models and collection strategies for the bank’s key portfolios, addressing deterioration in their existing Home Loan risk models and stabilising identification accuracy."
+        "• Trained and onboarded an intern in parallel, creating documentation, walkthroughs, and collaborative workflows to support skill development.",
+        "Delivered ~100% lift across key decision metrics for PIRV models and improved loss-ratio outcomes for both organisations"
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "SMFG INDIA CREDIT COMPANY",
+      title: "Senior Manager",
+      dateRange: "Jul 2022 - Dec 2023",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+        "Build a Two-Wheeler Loan application model and ensure ongoing model performance in collection space.",
+        "Developed the logistic-regression acquisition model end-to-end—targeting, data prep, variable selection, modelling, and policy analysis—followed by UAT, scoring code, and BRD delivery. Maintained existing models by fixing glitches, monitoring drift, and working with Collections for smooth operational use.",
       ],
     },
     {
@@ -61,9 +63,11 @@ export const siteConfig = {
       title: "Frontend Developer",
       dateRange: "Aug 2018 - May 2020",
       bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "• Led RCA for a critical issue by partnering with Implementation and Data teams, quantifying impact, resolving data gaps, and establishing monthly model reporting along with a Variables Quality Dashboard using CSI/PSI to flag anomalies.",
+
+        "• Built an XGBoost-based Collection Strategy model end-to-end, including data prep, Random Forest benchmarking, hyperparameter tuning, resilience testing on stressed data, and deployment coordination with Implementation.",
+
+        "• Managed monitoring of Credit Card risk models across Acquisition, Account Management, Collection, and Recovery; delivered monthly performance insights and reports to senior stakeholders, and developed an automated SAS-based reporting system to eliminate manual errors.",
       ],
     },
   ],
